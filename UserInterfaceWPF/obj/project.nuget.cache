@@ -1,19 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "B8RtbiUORsI7EzFNEwVyenRspEEf57LI0gQ0705DChoIlXPk9I62PSPgreKnD/SpHk4YvAdrLVe6+tNWF8tlMA==",
+  "dgSpecHash": "sAZQZDBD9k9euK5nB8GFdFPeJi5w9cChgZ0XDQOs6zlsu9AjzLdDFd97DGYke78qcdaVIstXW3gNgqQCvIQ4Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\Laba3TP\\Lab3AgeevShelepko\\UserInterfaceWPF\\UserInterfaceWPF.csproj",
+  "projectFilePath": "C:\\Users\\Valery\\source\\repos\\Lab3AgeevShelepko\\UserInterfaceWPF\\UserInterfaceWPF.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\scottplot\\4.1.63\\scottplot.4.1.63.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\scottplot.wpf\\4.1.63\\scottplot.wpf.4.1.63.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\Valery\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\scottplot\\4.1.63\\scottplot.4.1.63.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\scottplot.wpf\\4.1.63\\scottplot.wpf.4.1.63.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
